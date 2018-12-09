@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskEMP", "HomeTaskEMP\HomeTaskEMP.csproj", "{27F120EA-B24B-49FF-A680-A3C71C2D0E73}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{375950E7-BB92-4FF5-A16B-00C45C2147D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F120EA-B24B-49FF-A680-A3C71C2D0E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F120EA-B24B-49FF-A680-A3C71C2D0E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F120EA-B24B-49FF-A680-A3C71C2D0E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F120EA-B24B-49FF-A680-A3C71C2D0E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375950E7-BB92-4FF5-A16B-00C45C2147D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375950E7-BB92-4FF5-A16B-00C45C2147D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375950E7-BB92-4FF5-A16B-00C45C2147D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375950E7-BB92-4FF5-A16B-00C45C2147D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

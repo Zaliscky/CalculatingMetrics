@@ -1,0 +1,27 @@
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe.config
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.pdb
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csprojResolveAssemblyReference.cache
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Form1.resources
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csproj.GenerateResource.Cache
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.exe
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.pdb
+D:\My Documents\OneDrive\Documents\visual studio 2015\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Regression.resources
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe.config
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.exe
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.pdb
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.pdb
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Form1.resources
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Regression.resources
+C:\Users\Ivan\Desktop\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csproj.GenerateResource.Cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.exe
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\bin\Debug\HomeTaskEMP.pdb
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Form1.resources
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.Regression.resources
+C:\Users\Ivan\Documents\Visual Studio 2013\Projects\HomeTaskEMP\HomeTaskEMP\obj\Debug\HomeTaskEMP.csproj.GenerateResource.Cache
